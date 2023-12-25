@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 
 @SpringBootApplication
 
-public class Demo_SpringDatajpa {
+public class Restful_webServices {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Demo_SpringDatajpa.class, args);
+		SpringApplication.run(Restful_webServices.class, args);
 		
 	}
 	
